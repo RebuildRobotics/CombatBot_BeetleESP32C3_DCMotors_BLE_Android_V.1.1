@@ -1,9 +1,5 @@
+Rebuild{Robotics} - https://wwww.rebuildrobotics.fi
 # CombatBot_BeetleESP32C3_DCMotors_BLE_Android_V.1.1
-Designed for 150-450 g combat robots controlled by Android smartphone/tablet via bluetoothLE. Controlling is done with Rebuild{Robotics} Bot Controller Android app. 
-
-
-Rebuild{Robotics} - CombatBot for Beetle ESP32-C3 & DCMotors - BLE - Android V.1.1
-https://wwww.rebuildrobotics.fi
 
 Designed for 150-450 g combat robots controlled by Android smartphone/tablet via bluetoothLE. Controlling is done with Rebuild{Robotics} Bot Controller Android app.
 In this version driving motors are controlled by HR8833 or TB6612FNG DC motor driver using PWM signal. Other version is available for motors drivers using PPM signal.
